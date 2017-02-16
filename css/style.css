@@ -1,0 +1,19 @@
+#bio
+{
+	margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 300px;
+    margin-top: 200px;
+}
+
+#bio h2
+{
+	font-family: Lobster, Monospace;
+	color: brown;
+}
+
+#bio h4
+{
+	    margin-left: 70px;
+}
